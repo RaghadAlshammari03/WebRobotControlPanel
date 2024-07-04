@@ -67,5 +67,28 @@ button {
 }
 
 .stop-button:hover {
-    background: #ee5253;
+    background: #0077b6;
+}
+
+.nav-button {
+    background: #00b4d8;
+}
+
+.nav-button:hover {
+    background: #0077b6;
+}
+
+.refresh-button {
+    background: #00b4d8;
+}
+
+.refresh-button:hover {
+    background: #0077b6;
+}
+
+#last-command {
+    margin: 20px 0;
+    font-size: 18px;
+    color: #555;
+    min-height: 24px;
 }
