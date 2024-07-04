@@ -8,15 +8,16 @@ body {
     margin: 0;
 }
 
-.control-panel {
+.control-panel, .command-panel {
     background: #fff;
     border-radius: 10px;
     box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
     text-align: center;
     padding: 20px;
+    margin-bottom: 20px;
 }
 
-.control-panel h1 {
+.control-panel h1, .command-panel h1 {
     margin: 0;
     font-size: 24px;
     color: #333;
@@ -24,8 +25,8 @@ body {
 
 .joystick {
     position: relative;
-    width: 500px;
-    height: 500px;
+    width: 200px; 
+    height: 200px; 
     background: #e0e0e0;
     border-radius: 50%;
     margin: 20px auto;
@@ -34,8 +35,8 @@ body {
 
 .stick {
     position: absolute;
-    width: 150px;
-    height: 150px;
+    width: 50px; 
+    height: 50px; 
     background: #00b4d8;
     border-radius: 50%;
     top: 50%;
@@ -53,13 +54,13 @@ body {
     display: inline-block;
     margin-top: 20px;
     padding: 20px 40px; 
-    background: #00b4d8;
     color: #fff;
     border: none;
     border-radius: 10px; 
     cursor: pointer;
     font-size: 24px; 
     transition: background 0.3s;
+    background: #00b4d8;
 }
 
 .stop-button:hover {
