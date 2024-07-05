@@ -110,4 +110,4 @@ robot-control-panel/
 - **Stop Button**: Easily stop the robot with a single click.
 - **Command Storage**: Store commands in a MySQL database for further processing or analysis.
 
-made with love by "she codes team "🤍😄 raghd Alshammari - sadeem alresaini - razan alothaim.
+made with love by "she codes team "🤍😄 raghad Alshammari - sadeem alresaini - razan alothaim.
