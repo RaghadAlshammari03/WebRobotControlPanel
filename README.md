@@ -1,4 +1,4 @@
-# 🤖 TASK1 : Robot Control Panel
+#  TASK1 : Robot Control Panel🤖
 
 This project is a web-based control panel for a robot. It allows users to control the robot's movements using a joystick interface and stop the robot with a dedicated button. The commands are sent to a backend server and stored in a database for further processing.
 
